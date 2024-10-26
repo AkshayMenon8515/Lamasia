@@ -1,32 +1,30 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Random Excuse Generator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: LaMasia
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Akshay S Menon - SCMS School Of Engineering and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+The Random Excuse Generator is a fun and interactive program designed to generate unique excuses at the click of a button. Whether you're looking for a reason to explain a late submission, a last-minute change of plans, or simply want a good laugh, this project provides randomized excuses for different scenarios.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In the classic school scenario of forgetting homework, students often scramble to come up with creative excuses. Common examples include claims of family mishaps, or even miscommunications about due dates. This situation provides ample inspiration for a random excuse generator, offering humorous and relatable responses for students in need!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+To prevent forgetting homework, students should establish a consistent homework routine, use a planner or digital tools to track assignments, organize schoolwork with designated folders, communicate with teachers about potential issues, and maintain backups of digital assignments in cloud storage.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML and CSS
 - [Frameworks used]
-- [Libraries used]
+- Boxicons
 - [Tools used]
 
 For Hardware:
@@ -87,7 +85,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- Akshay S Menon: Login Page
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
 
